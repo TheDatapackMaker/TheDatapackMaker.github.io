@@ -64,7 +64,9 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "mbrsiteDomain": "cvy7er2iq7",
-    "gdpr": false
+    "gdpr": false,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
