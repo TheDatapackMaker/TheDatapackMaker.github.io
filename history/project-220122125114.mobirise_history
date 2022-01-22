@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "index",
-    "currentPage": "right_click_harvest.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -1124,7 +1124,7 @@
     "customfood.html": {
       "settings": {
         "title": "Custom Food",
-        "order": 3
+        "order": 2
       },
       "components": [
         {
@@ -2199,7 +2199,7 @@
     "pet_rock.html": {
       "settings": {
         "title": "Pet Rock",
-        "order": 4
+        "order": 3
       },
       "components": [
         {
@@ -2730,7 +2730,7 @@
     "camping_utils.html": {
       "settings": {
         "title": "Camping Utils",
-        "order": 12
+        "order": 11
       },
       "components": [
         {
@@ -3261,7 +3261,7 @@
     "time_stop.html": {
       "settings": {
         "title": "Time Stop",
-        "order": 5
+        "order": 4
       },
       "components": [
         {
@@ -3792,7 +3792,7 @@
     "noise_cancelling_headphones.html": {
       "settings": {
         "title": "Noise Cancelling Headphones",
-        "order": 7
+        "order": 6
       },
       "components": [
         {
@@ -4323,7 +4323,7 @@
     "extra_automation.html": {
       "settings": {
         "title": "Extra Automation",
-        "order": 8,
+        "order": 7,
         "meta_descr": ""
       },
       "components": [
@@ -4855,7 +4855,7 @@
     "alt_bedrock_breaking.html": {
       "settings": {
         "title": "Alternate Bedrock Breaking",
-        "order": 10,
+        "order": 9,
         "meta_descr": ""
       },
       "components": [
@@ -5387,7 +5387,7 @@
     "jetpacks.html": {
       "settings": {
         "title": "Jetpacks",
-        "order": 9,
+        "order": 8,
         "meta_descr": ""
       },
       "components": [
@@ -5919,7 +5919,7 @@
     "interdimentional_enderpearls.html": {
       "settings": {
         "title": "Interdimentional Enderpearls",
-        "order": 11,
+        "order": 10,
         "meta_descr": ""
       },
       "components": [
@@ -6451,7 +6451,7 @@
     "extra_weapons.html": {
       "settings": {
         "title": "Extra Weapons",
-        "order": 13
+        "order": 12
       },
       "components": [
         {
@@ -7513,7 +7513,7 @@
     "alternate_universe.html": {
       "settings": {
         "title": "Alternate Universe",
-        "order": 6
+        "order": 5
       },
       "components": [
         {
@@ -8046,7 +8046,7 @@
     "parcours.html": {
       "settings": {
         "title": "Parcours Datapack",
-        "order": 14
+        "order": 13
       },
       "components": [
         {
@@ -9108,7 +9108,7 @@
     "right_click_harvest.html": {
       "settings": {
         "title": "Right Click Harvest",
-        "order": 2
+        "order": 14
       },
       "components": [
         {
@@ -9544,7 +9544,7 @@
           },
           "_name": "header11",
           "_sourceTheme": "mobirise5",
-          "_customHTML": "<section data-bs-version=\"5.1\" class=\"header11\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n    'mbr-fullscreen': fullScreen,\n    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\" checked>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"10\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"10\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline name=\"imageWidth\" title=\"Image\" min=\"4\" max=\"8\" step=\"1\" value=\"5\">\n        <input type=\"checkbox\" title=\"Reverse\" name=\"reverseContent\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Buttons\" name=\"showButtons\" checked>\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/greenbluebg-1920x1080.png\">\n            <input type=\"color\" title=\"Color\" value=\"#71b458\" selected>\n            <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-12 col-md-{{imageWidth}} image-wrapper\">\n                <img class=\"w-100\" src=\"@PROJECT_PATH@/assets/images/rch-320x320.png\" alt=\"unimportant picture\">\n            </div>\n            <div class=\"col-12 col-md\">\n                <div class=\"text-wrapper text-center\">\n                    <h1 class=\"mbr-section-title mbr-fonts-style mb-3\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\">\n                        <b>Right Click Harvest</b></h1>\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">With this Datapack you can right click crops to harvest and replant. This unfortunately only works with an empty offhand.<br><br><br>Resource Pack Optional, but makes it look nicer.<br><br>If you don't know how to install head <a href=\"index.html#features24-20\" class=\"text-primary\">here</a></p>\n                    <div mbr-buttons mbr-theme-style=\"display-7\" class=\"mbr-section-btn mt-3\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-info\" href=\"https://thedatapackmaker.github.io/download/right_click_harvest/Datapack_right_click_harvest.zip\" data-app-placeholder=\"Type Text\" target=\"_blank\">Datapack</a> <a class=\"btn btn-info\" href=\"https://thedatapackmaker.github.io/download/right_click_harvest/Resourcepack_right_click_harvest.zip\" data-app-placeholder=\"Type Text\" target=\"_blank\">Resource Pack</a></div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"header11\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n    'mbr-fullscreen': fullScreen,\n    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\" checked>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"10\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"10\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline name=\"imageWidth\" title=\"Image\" min=\"4\" max=\"8\" step=\"1\" value=\"5\">\n        <input type=\"checkbox\" title=\"Reverse\" name=\"reverseContent\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Buttons\" name=\"showButtons\" checked>\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/greenbluebg-1920x1080.png\">\n            <input type=\"color\" title=\"Color\" value=\"#71b458\" selected>\n            <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-12 col-md-{{imageWidth}} image-wrapper\">\n                <img class=\"w-100\" src=\"@PROJECT_PATH@/assets/images/rch-320x320.png\" alt=\"unimportant picture\">\n            </div>\n            <div class=\"col-12 col-md\">\n                <div class=\"text-wrapper text-center\">\n                    <h1 class=\"mbr-section-title mbr-fonts-style mb-3\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\">\n                        <b>Right Click Harvest</b></h1>\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">With this Datapack you can right click crops to harvest and replant. This unfortunately only works with an empty offhand.<br><br><br>Resource Pack Optional, but makes it look nicer.<br><br>If you don't know how to install head <a href=\"index.html#features24-20\" class=\"text-primary\">here</a></p>\n                    <div mbr-buttons mbr-theme-style=\"display-7\" class=\"mbr-section-btn mt-3\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-info\" href=\"https://thedatapackmaker.github.io/download/right_click_harvest/Datapack_right_click_harvest.zip\" data-app-placeholder=\"Type Text\" target=\"_blank\">Datapack</a> <a class=\"btn btn-info\" href=\"https://thedatapackmaker.github.io/download/parcours/Resourcepack_right_click_harvest.zip\" data-app-placeholder=\"Type Text\" target=\"_blank\">Resource Pack</a></div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "sVfbLCsRbb",
           "_anchor": "header11-2s",
           "_protectedParams": [],
