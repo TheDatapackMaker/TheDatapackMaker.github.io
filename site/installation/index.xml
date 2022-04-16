@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>How to install on TheDatapackMaker</title>
-    <link>https://thedatapackmaker.github.io/installation/</link>
+    <link>https://thedatapackmaker.github.io/site/installation/</link>
     <description>Recent content in How to install on TheDatapackMaker</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://thedatapackmaker.github.io/installation/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://thedatapackmaker.github.io/site/installation/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
