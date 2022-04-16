@@ -8,7 +8,7 @@ title = "Title"
 
 Description
 
-<span class="download-buttons"><button><a href="" target="_blank">Datapack</a></button><button><a href="" target="_blank">Resourcepack</a></button></span>
+<span class="download-buttons"><a href="https://thedatapackmaker.github.io/download/*pack*/Datapack.zip" target="_blank"><button>Datapack</button></a><a href="https://thedatapackmaker.github.io/download/*pack*/Resourcepack.zip" target="_blank"><button>Resourcepack</button></a></span>
 
 <!--more-->
 

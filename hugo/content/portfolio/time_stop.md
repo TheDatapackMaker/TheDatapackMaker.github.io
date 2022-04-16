@@ -8,7 +8,7 @@ title = "Time Stop Watch"
 
 Adds a Stopwatch that allows you to to stop time!
 
-<span class="download-buttons"><button><a href="https://thedatapackmaker.github.io/download/time_stop/Datapack.zip" target="_blank">Datapack</a></button><button><a href="https://thedatapackmaker.github.io/download/time_stop/Resourcepack.zip" target="_blank">Resourcepack</a></button></span>
+<span class="download-buttons"><a href="https://thedatapackmaker.github.io/download/time_stop/Datapack.zip" target="_blank"><button>Datapack</button></a><a href="https://thedatapackmaker.github.io/download/time_stop/Resourcepack.zip" target="_blank"><button>Resourcepack</button></a></span>
 
 <!--more-->
 
