@@ -12,4 +12,8 @@ Allows you to right click grown crops to replant.
 
 <!--more-->
 
+## Showcase
+
+{{< youtube Oj65IKTjeoA >}}
+
 
